@@ -1,0 +1,28 @@
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 37: error sintáctico cerca del elemento inesperado `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 37: `done;'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 35: error sintáctico cerca del elemento inesperado `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 35: `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 35: error sintáctico cerca del elemento inesperado `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 35: `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 36: error sintáctico cerca del elemento inesperado `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 36: `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 36: error sintáctico cerca del elemento inesperado `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 36: `done'
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 22: 0=0: orden no encontrada
+/home/cmunoz/Desktop/copy_thredds_access_logs_to_archive2.sh: línea 24: 0=1: orden no encontrada
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.0.gz»: No existe el archivo o el directorio
+[02-nov-2017 13:55:26] ERROR copying one of the files.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:31:20] ERROR copying one of the files.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:33:46] ERROR copying one of the files.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:36:01] ERROR copying one of the files.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:38:05] ERROR copying file LOG_FILE.2.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:38:36] ERROR copying file thredds.socib.es.access.log.2.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:40:12] ERROR copying file thredds.socib.es.access.log.2.
+cp: no se puede efectuar `stat' sobre «/home/cmunoz/Documents/programming/PythonScripts/processing-logs/test/thredds.socib.es.access.log.2.gz»: No existe el archivo o el directorio
+[02-nov-2017 14:40:50] ERROR copying file thredds.socib.es.access.log.2.

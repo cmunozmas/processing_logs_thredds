@@ -1,0 +1,6 @@
+psutil
+pandas==0.21.1
+psycopg2==2.4.5
+matplotlib==2.0.2
+numpy==1.13.1
+requests==2.18.1
